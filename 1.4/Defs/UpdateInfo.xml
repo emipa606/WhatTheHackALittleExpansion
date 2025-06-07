@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TabulaRasa.UpdateDef Abstract="true" Name="WhatTheHackALittleExpansion_UpdateInfoBase">
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2931976761</linkUrl>
+		<banner>UpdateInfo/WhatTheHackALittleExpansion</banner>
+	</TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef ParentName="WhatTheHackALittleExpansion_UpdateInfoBase">
+		<defName>WhatTheHackALittleExpansion_1_4_0</defName>
+		<date>2025/6/7</date>
+		<content>This mod will not be further updated, please use What the Hack?! - A Little Expansion (Continued) by Zaljerem instead.</content>
+	</TabulaRasa.UpdateDef>
+</Defs>
+

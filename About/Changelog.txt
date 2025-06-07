@@ -1,4 +1,7 @@
 # Changelog for WhatTheHackALittleExpansion
 
+1.4.1 - Last update, added end-of-life message
+
+
 1.4.0 - First publish
 

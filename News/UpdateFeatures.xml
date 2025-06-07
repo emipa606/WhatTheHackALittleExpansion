@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<HugsLib.UpdateFeatureDef Abstract="true" Name="WhatTheHackALittleExpansion_UpdateFeatureBase">
+		<modNameReadable>WhatTheHackALittleExpansion</modNameReadable>
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2931976761</linkUrl>
+	</HugsLib.UpdateFeatureDef>
+	<HugsLib.UpdateFeatureDef ParentName="WhatTheHackALittleExpansion_UpdateFeatureBase">
+		<defName>WhatTheHackALittleExpansion_1_4_0</defName>
+		<assemblyVersion>1.4.0</assemblyVersion>
+		<content>This mod will not be further updated, please use What the Hack?! - A Little Expansion (Continued) by Zaljerem instead.</content>
+	</HugsLib.UpdateFeatureDef>
+</Defs>
+
